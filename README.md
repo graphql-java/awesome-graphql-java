@@ -4,29 +4,27 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
-## Libraries
+## Examples
 
 * [todomvc-relay-java](https://github.com/graphql-java/todomvc-relay-java): Port of the Relay TodoMVC example to a java backend
 
-* [graphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator): This library will autogenerate GraphQL types for usage in com.graphql-java:graphql-java Edit
+## Schema Libraries
 
-* [graphql-rxjava](https://github.com/nfl/graphql-rxjava): An execution strategy that makes it easier to use rxjava's Observable
-
-* [graphql-java-reactive](https://github.com/bsideup/graphql-java-reactive): An execution strategy which is based on Reactive Streams. Project is evolving.
-
-* [graphql-java-annotations](https://github.com/graphql-java/graphql-java-annotations): Annotations-based syntax for GraphQL schema definition.
-
-* [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet): Servlet that automatically exposes a schema dynamically built from GraphQL queries and mutations.
+### Schema First
 
 * [graphql-apigen](https://github.com/Distelli/graphql-apigen): Generate Java APIs with GraphQL Schemas
 
-* [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot): GraphQL and GraphiQL Spring Framework Boot Starters
+* [graphql-java-tools](https://github.com/graphql-java/graphql-java-tools): A schema-first tool for graphql-java inspired by graphql-tools for JS
+
+* [graphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator): This library will autogenerate GraphQL types for usage in com.graphql-java:graphql-java
+
+### Code First
+
+* [graphql-java-annotations](https://github.com/graphql-java/graphql-java-annotations): Annotations-based syntax for GraphQL schema definition.
 
 * [spring-graphql-common](https://github.com/oembedler/spring-graphql-common): Spring Framework GraphQL Library
 
 * [graphql-jpa](https://github.com/jcrygier/graphql-jpa): JPA Implementation of GraphQL (builds on graphql-java)
-
-* [graphql-jpa-spring-boot-starter](https://github.com/timtebeek/graphql-jpa-spring-boot-starter): Spring Boot starter for GraphQL JPA; Expose JPA entities with GraphQL.
 
 * [graphkool](https://github.com/beyondeye/graphkool): GraphQl-java utilities in kotlin
 
@@ -34,8 +32,21 @@
 
 * [GraphQL-SPQR](https://github.com/leangen/GraphQL-SPQR): Java 8+ API for rapid development of GraphQL services
 
-* [Light Java GraphQL](https://github.com/networknt/light-java-graphql): A lightweight, fast microservices framework with all other cross-cutting concerns addressed that is ready to plug in GraphQL schema. 
+## Execution Strategies
 
+* [graphql-rxjava](https://github.com/nfl/graphql-rxjava): An execution strategy that makes it easier to use rxjava's Observable
+
+* [graphql-java-reactive](https://github.com/bsideup/graphql-java-reactive): An execution strategy which is based on Reactive Streams. Project is evolving.
+
+## Exposing a Schema
+
+* [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet): Servlet that automatically exposes a schema dynamically built from GraphQL queries and mutations.
+
+* [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot): GraphQL and GraphiQL Spring Framework Boot Starters
+
+* [graphql-jpa-spring-boot-starter](https://github.com/timtebeek/graphql-jpa-spring-boot-starter): Spring Boot starter for GraphQL JPA; Expose JPA entities with GraphQL.
+
+* [Light Java GraphQL](https://github.com/networknt/light-java-graphql): A lightweight, fast microservices framework with all other cross-cutting concerns addressed that is ready to plug in GraphQL schema. 
 
 ## License
 
