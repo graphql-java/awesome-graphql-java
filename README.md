@@ -42,7 +42,7 @@
 
 * [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet): Servlet that automatically exposes a schema dynamically built from GraphQL queries and mutations.
 
-* [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot): GraphQL and GraphiQL Spring Framework Boot Starters
+* [graphql-spring-boot](https://github.com/graphql-java/graphql-spring-boot): GraphQL and GraphiQL Spring Framework Boot Starters
 
 * [graphql-jpa-spring-boot-starter](https://github.com/timtebeek/graphql-jpa-spring-boot-starter): Spring Boot starter for GraphQL JPA; Expose JPA entities with GraphQL.
 
