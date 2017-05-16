@@ -32,6 +32,12 @@
 
 * [GraphQL-SPQR](https://github.com/leangen/GraphQL-SPQR): Java 8+ API for rapid development of GraphQL services
 
+## Java Clients
+
+### Code Generation
+
+* [apollo-client-maven-plugin](https://github.com/Cox-Automotive/apollo-client-maven-plugin): Generate a Java GraphQL client based on introspection data and predefined queries.
+
 ## Execution Strategies
 
 * [graphql-rxjava](https://github.com/nfl/graphql-rxjava): An execution strategy that makes it easier to use rxjava's Observable
