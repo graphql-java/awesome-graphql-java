@@ -47,6 +47,8 @@
 
 * [Light Java GraphQL](https://github.com/networknt/light-java-graphql): A lightweight, fast microservices framework with all other cross-cutting concerns addressed that is ready to plug in GraphQL schema. 
 
+* [Moqui GraphQL](https://github.com/shendepu/moqui-graphql): An addon of Moqui framework to generate GraphQL Schema automatically. 
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
