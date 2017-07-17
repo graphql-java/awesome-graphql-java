@@ -7,6 +7,7 @@
 ## Examples
 
 * [todomvc-relay-java](https://github.com/graphql-java/todomvc-relay-java): Port of the Relay TodoMVC example to a java backend
+* [graphql-datetime-sample-app](https://github.com/donbeave/graphql-java-datetime/tree/master/graphql-datetime-sample-app): GraphQL example app with usage of date and time scalars
 
 ## Schema Libraries
 
@@ -48,6 +49,11 @@
 * [Light Java GraphQL](https://github.com/networknt/light-java-graphql): A lightweight, fast microservices framework with all other cross-cutting concerns addressed that is ready to plug in GraphQL schema. 
 
 * [Moqui GraphQL](https://github.com/shendepu/moqui-graphql): An addon of Moqui framework to generate GraphQL Schema automatically. 
+
+
+## Scalars
+
+* [graphql-java-datetime](https://github.com/donbeave/graphql-java-datetime): A set of ISO 33601, RFC 3339 compatible date time scalars for GraphQL Java
 
 ## License
 
