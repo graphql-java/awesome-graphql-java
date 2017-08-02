@@ -50,6 +50,10 @@
 
 * [Moqui GraphQL](https://github.com/shendepu/moqui-graphql): An addon of Moqui framework to generate GraphQL Schema automatically. 
 
+## Batch Loading
+
+* [java-dataloader](https://github.com/graphql-java/java-dataloader): A pure java 8 port of [Facebook DataLoader](https://github.com/facebook/dataloader) 
+
 
 ## Scalars
 
