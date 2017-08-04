@@ -17,6 +17,8 @@
 
 * [graphql-java-tools](https://github.com/graphql-java/graphql-java-tools): A schema-first tool for graphql-java inspired by graphql-tools for JS
 
+* [rdbms-to-graphql](https://github.com/ebridges/rdbms-to-graphql): A Java CLI program that generates a GraphQL schema from a JDBC data source.
+
 ### Code First
 * [graphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator): This library will autogenerate GraphQL types for usage in com.graphql-java:graphql-java
 
