@@ -52,6 +52,8 @@
 
 * [Moqui GraphQL](https://github.com/shendepu/moqui-graphql): An addon of Moqui framework to generate GraphQL Schema automatically. 
 
+* [GORM GraphQL](https://github.com/grails/gorm-graphql): An fully customizable addon for [GORM](http://gorm.grails.org) (Grails Object Relational Model) to generate a GraphQL schema automatically.
+
 ## Batch Loading
 
 * [java-dataloader](https://github.com/graphql-java/java-dataloader): A pure java 8 port of [Facebook DataLoader](https://github.com/facebook/dataloader) 
