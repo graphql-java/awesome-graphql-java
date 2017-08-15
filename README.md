@@ -8,6 +8,7 @@
 
 * [todomvc-relay-java](https://github.com/graphql-java/todomvc-relay-java): Port of the Relay TodoMVC example to a java backend
 * [graphql-datetime-sample-app](https://github.com/donbeave/graphql-java-datetime/tree/master/graphql-datetime-sample-app): GraphQL example app with usage of date and time scalars
+* [spring-petclinic-graphql](https://github.com/spring-petclinic/spring-petclinic-graphql): Port of the Spring PetClinic to Spring Boot, graphql-java and graphql-spring-boot-starter (using React Apollo in the frontend) 
 
 ## Schema Libraries
 
