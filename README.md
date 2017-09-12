@@ -35,6 +35,8 @@
 
 * [GraphQL-SPQR](https://github.com/leangen/GraphQL-SPQR): Java 8+ API for rapid development of GraphQL services
 
+* [graphql-emf](https://github.com/hallvard/graphql-emf): Support for EMF models and data
+
 ## Execution Strategies
 
 * [graphql-rxjava](https://github.com/nfl/graphql-rxjava): An execution strategy that makes it easier to use rxjava's Observable
