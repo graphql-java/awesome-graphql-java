@@ -57,6 +57,8 @@
 
 * [GORM GraphQL](https://github.com/grails/gorm-graphql): An fully customizable addon for [GORM](http://gorm.grails.org) (Grails Object Relational Model) to generate a GraphQL schema automatically.
 
+* [Vert.x GraphQL Utils](https://github.com/tibor-kocsis/vertx-graphql-utils) - Vert.x route handler and Vert.x compatible interfaces to handle GraphQL queries in Vert.x applications.
+
 ## Batch Loading
 
 * [java-dataloader](https://github.com/graphql-java/java-dataloader): A pure java 8 port of [Facebook DataLoader](https://github.com/facebook/dataloader) 
