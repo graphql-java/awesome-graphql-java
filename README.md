@@ -37,7 +37,7 @@
 
 * [graphql-emf](https://github.com/hallvard/graphql-emf): Support for EMF models and data
 
-* [rejoiner](https://github.com/google/rejoiner): Provides a uniform GraphQL schema on top of gRPC microservices by generating GraphQL types from Protobuf.
+* [Rejoiner](https://github.com/google/rejoiner): Provides a uniform GraphQL schema on top of gRPC microservices by generating GraphQL types from Protobuf.
 
 ## Execution Strategies
 
