@@ -63,7 +63,7 @@
 
 * [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) - [Dropwizard](http://dropwizard.io) bundle for exposing a GraphQL endpoint (uses [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet) internally)
 
-* [graffiti]https://github.com/creactiviti/graffiti - a headless Java CMS.
+* [graffiti](https://github.com/creactiviti/graffiti) - a headless Java CMS.
 
 ## Batch Loading
 
