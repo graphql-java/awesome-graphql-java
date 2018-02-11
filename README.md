@@ -65,6 +65,8 @@
 
 * [graffiti](https://github.com/creactiviti/graffiti) - a headless Java CMS.
 
+* [spring-boot-starter-graphql](https://github.com/creactiviti/spring-boot-starter-graphql) - Spring Boot Starter for GraphQL.
+
 ## Batch Loading
 
 * [java-dataloader](https://github.com/graphql-java/java-dataloader): A pure java 8 port of [Facebook DataLoader](https://github.com/facebook/dataloader) 
