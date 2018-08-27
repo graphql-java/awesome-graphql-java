@@ -20,7 +20,9 @@
 
 * [rdbms-to-graphql](https://github.com/ebridges/rdbms-to-graphql): A Java CLI program that generates a GraphQL schema from a JDBC data source.
 
-* [graphql-schema-from-introspection-generator](https://github.com/mstachniuk/graphql-schema-from-introspection-generator) - A Java CLI program that generates a GraphQL schema from Introspection Query result. Useful for migration from Code First. 
+* [graphql-schema-from-introspection-generator](https://github.com/mstachniuk/graphql-schema-from-introspection-generator): A Java CLI program that generates a GraphQL schema from Introspection Query result. Useful for migration from Code First.
+
+* [graphql-braid](https://bitbucket.org/atlassian/graphql-braid): Schema stitching - combines GraphQL backends into one schema.
 
 ### Code First
 * [graphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator): This library will autogenerate GraphQL types for usage in com.graphql-java:graphql-java
