@@ -39,6 +39,8 @@
 
 * [Rejoiner](https://github.com/google/rejoiner): Provides a uniform GraphQL schema on top of gRPC microservices by generating GraphQL types from Protobuf.
 
+* [graphql-kotlin](https://github.com/ExpediaDotCom/graphql-kotlin): Code-only GraphQL schema generation for Kotlin
+
 ## Execution Strategies
 
 * [graphql-rxjava](https://github.com/nfl/graphql-rxjava): An execution strategy that makes it easier to use rxjava's Observable
