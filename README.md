@@ -69,6 +69,8 @@
 
 * [spring-boot-starter-graphql](https://github.com/creactiviti/spring-boot-starter-graphql) - Spring Boot Starter for GraphQL.
 
+* [micronaut-graphql](https://github.com/micronaut-projects/micronaut-graphql): Provides Micronaut GraphQL integration.
+
 ## Batch Loading
 
 * [java-dataloader](https://github.com/graphql-java/java-dataloader): A pure java 8 port of [Facebook DataLoader](https://github.com/facebook/dataloader) 
