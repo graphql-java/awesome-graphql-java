@@ -24,6 +24,8 @@
 
 * [graphql-braid](https://bitbucket.org/atlassian/graphql-braid): Schema stitching - combines GraphQL backends into one schema.
 
+* [test-graphql-java](https://github.com/vimalrajselvam/test-graphql-java): A simple library to help testing the GraphQL endpoint with schema files using any HTTP Client library.
+
 ### Code First
 * [graphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator): This library will autogenerate GraphQL types for usage in com.graphql-java:graphql-java
 
