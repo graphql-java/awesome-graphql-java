@@ -18,6 +18,10 @@
 
 * [graphql-java-tools](https://github.com/graphql-java/graphql-java-tools): A schema-first tool for graphql-java inspired by graphql-tools for JS
 
+* [graphql-java-codegen-maven-plugin](https://github.com/kobylynskyi/graphql-java-codegen-maven-plugin): Maven plugin for generating Java types and Resolver interfaces. Works perfectly in conjunction with graphql-java-tools.
+
+* [graphql-java-codegen-gradle-plugin](https://github.com/kobylynskyi/graphql-java-codegen-gradle-plugin): Gradle plugin for generating Java types and Resolver interfaces. Works perfectly in conjunction with graphql-java-tools. 
+
 * [rdbms-to-graphql](https://github.com/ebridges/rdbms-to-graphql): A Java CLI program that generates a GraphQL schema from a JDBC data source.
 
 * [graphql-schema-from-introspection-generator](https://github.com/mstachniuk/graphql-schema-from-introspection-generator): A Java CLI program that generates a GraphQL schema from Introspection Query result. Useful for migration from Code First.
