@@ -14,6 +14,12 @@
 
 ### Schema First
 
+* [GraphQL Java Generator](https://github.com/graphql-java-generator) is a maven plugin that has two modes :
+
+    * The Client mode generates the Java classes that contains methods to call the GraphQL endpoint , and the POJO that will contain the data returned by the server.
+
+    * The Server mode generates the boilerplate code for graphql-java. It's an accelerator that makes it easier to use graphql-java. You'll only have to implement what's specific to your server, which are the joins between the GraphQL types.
+
 * [graphql-apigen](https://github.com/Distelli/graphql-apigen): Generate Java APIs with GraphQL Schemas
 
 * [graphql-java-tools](https://github.com/graphql-java/graphql-java-tools): A schema-first tool for graphql-java inspired by graphql-tools for JS
