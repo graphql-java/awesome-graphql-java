@@ -43,6 +43,8 @@
 
 * [spring-graphql-common](https://github.com/oembedler/spring-graphql-common): Spring Framework GraphQL Library
 
+* [graphql-jpa-query](https://github.com/introproventures/graphql-jpa-query): GraphQL Query Api for JPA 2.1 Entity Models
+
 * [graphql-jpa](https://github.com/jcrygier/graphql-jpa): JPA Implementation of GraphQL (builds on graphql-java)
 
 * [graphkool](https://github.com/beyondeye/graphkool): GraphQl-java utilities in kotlin
