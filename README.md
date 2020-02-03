@@ -59,6 +59,10 @@
 
 * [graphql-kotlin](https://github.com/ExpediaDotCom/graphql-kotlin): Code-only GraphQL schema generation for Kotlin
 
+* [graphql-reflector](https://github.com/graphqly/graphql-reflector):  A simple GraphQL reflection library for Java code-first applications.
+
+* [vertx-graphql-client](https://github.com/graphqly/vertx-graphql-client): An elegant implementation for code-first GraphQL clients
+
 ## Execution Strategies
 
 * [graphql-rxjava](https://github.com/nfl/graphql-rxjava): An execution strategy that makes it easier to use rxjava's Observable
