@@ -93,12 +93,18 @@
 
 * [micronaut-graphql](https://github.com/micronaut-projects/micronaut-graphql): Provides Micronaut GraphQL integration.
 
+## Validation
+
+* [graphql-java-extended-validation](https://github.com/graphql-java/graphql-java-extended-validation): A validation library that allows use of @directives to indicate how to validate graphql input arguments.
+
 ## Batch Loading
 
 * [java-dataloader](https://github.com/graphql-java/java-dataloader): A pure java 8 port of [Facebook DataLoader](https://github.com/facebook/dataloader) 
 
 
 ## Scalars
+
+* [graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars): A series extended scalars for graphql-java based projects, brought you you by the same team that helps build graphql-java itself
 
 * [graphql-java-datetime](https://github.com/donbeave/graphql-java-datetime): A set of ISO 33601, RFC 3339 compatible date time scalars for GraphQL Java
 
