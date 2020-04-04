@@ -109,7 +109,8 @@
 * [graphql-java-datetime](https://github.com/donbeave/graphql-java-datetime): A set of ISO 33601, RFC 3339 compatible date time scalars for GraphQL Java
 
 ## Tools
-
+* [Firecamp](https://firecamp.io/graphql): The fastest GraphQL playground for altra modern team.
+* [GraphiQL](https://github.com/graphql/graphiql): The GUI playground for GraphQL.
 * [JS GraphQL IntelliJ Plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin): GraphQL language support for WebStorm, IntelliJ IDEA and other IDEs based on the IntelliJ Platform.
 
 ## License
