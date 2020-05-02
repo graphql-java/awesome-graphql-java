@@ -37,8 +37,6 @@
 * [test-graphql-java](https://github.com/vimalrajselvam/test-graphql-java): A simple library to help testing the GraphQL endpoint with schema files using any HTTP Client library.
 
 ### Code First
-* [graphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator): This library will autogenerate GraphQL types for usage in com.graphql-java:graphql-java
-
 * [graphql-java-annotations](https://github.com/graphql-java/graphql-java-annotations): Annotations-based syntax for GraphQL schema definition.
 
 * [spring-graphql-common](https://github.com/oembedler/spring-graphql-common): Spring Framework GraphQL Library
