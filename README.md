@@ -14,7 +14,7 @@
 
 ### Schema First
 
-* [GraphQL Java Generator](https://github.com/graphql-java-generator) is a maven plugin that has two modes :
+* [GraphQL Java Generator](https://github.com/graphql-java-generator) is available as a [Maven plugin](https://github.com/graphql-java-generator/graphql-maven-plugin-project) and a [Gradle plugin](https://github.com/graphql-java-generator/graphql-gradle-plugin-project). It has two modes :
 
     * The Client mode generates the Java classes that contains methods to call the GraphQL endpoint , and the POJO that will contain the data returned by the server.
 
