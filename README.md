@@ -36,6 +36,8 @@
 
 * [test-graphql-java](https://github.com/vimalrajselvam/test-graphql-java): A simple library to help testing the GraphQL endpoint with schema files using any HTTP Client library.
 
+* [graphql-java-federation](https://github.com/rkudryashov/graphql-java-federation): A library to adapt graphql-java services to Apollo Federation specification
+
 ### Code First
 * [graphql-java-annotations](https://github.com/graphql-java/graphql-java-annotations): Annotations-based syntax for GraphQL schema definition.
 
