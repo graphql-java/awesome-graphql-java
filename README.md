@@ -93,6 +93,8 @@
 
 * [micronaut-graphql](https://github.com/micronaut-projects/micronaut-graphql): Provides Micronaut GraphQL integration.
 
+* [vertx-web-graphql](https://vertx.io/docs/vertx-web-graphql/java/): Extends Vert.x Web with the GraphQL-Java library so that you can build a GraphQL server.
+
 ## Validation
 
 * [graphql-java-extended-validation](https://github.com/graphql-java/graphql-java-extended-validation): A validation library that allows use of @directives to indicate how to validate graphql input arguments.
