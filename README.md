@@ -63,6 +63,10 @@
 
 * [vertx-graphql-client](https://github.com/graphqly/vertx-graphql-client): An elegant implementation for code-first GraphQL clients
 
+* [MicroProfile GraphQL](https://github.com/eclipse/microprofile-graphql): Open Specification for Code-first Java GraphQL Services.
+
+* [SmallRye GraphQL](https://github.com/smallrye/smallrye-graphql): An implementation of the above mentioned Specification used in [Quarkus](https://quarkus.io/blog/quarkus-1-5-final-released/) and [OpenLiberty](https://openliberty.io/blog/2020/06/05/graphql-open-liberty-20006.html)
+
 ## Execution Strategies
 
 * [graphql-rxjava](https://github.com/nfl/graphql-rxjava): An execution strategy that makes it easier to use rxjava's Observable
