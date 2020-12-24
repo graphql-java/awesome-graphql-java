@@ -28,6 +28,8 @@
 
 * [graphql-java-codegen-gradle-plugin](https://github.com/kobylynskyi/graphql-java-codegen/tree/master/plugins/gradle): Gradle plugin for generating Java types and Resolver interfaces. Works perfectly in conjunction with graphql-java-tools. 
 
+* [graphql-java-codegen-sbt-plugin](https://github.com/jxnu-liguobin/graphql-java-codegen-sbt-plugin): SBT plugin for generating JVM languages(Such as Scala,Kotlin,Java) types and Resolver interfaces. Works perfectly in conjunction with graphql-java-tools. 
+
 * [rdbms-to-graphql](https://github.com/ebridges/rdbms-to-graphql): A Java CLI program that generates a GraphQL schema from a JDBC data source.
 
 * [graphql-schema-from-introspection-generator](https://github.com/mstachniuk/graphql-schema-from-introspection-generator): A Java CLI program that generates a GraphQL schema from Introspection Query result. Useful for migration from Code First.
