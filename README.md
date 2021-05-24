@@ -67,6 +67,8 @@
 
 * [SmallRye GraphQL](https://github.com/smallrye/smallrye-graphql): An implementation of the above mentioned Specification used in [Quarkus](https://quarkus.io/blog/quarkus-1-5-final-released/) and [OpenLiberty](https://openliberty.io/blog/2020/06/05/graphql-open-liberty-20006.html)
 
+* [Helidon GraphQL](https://medium.com/helidon/microprofile-graphql-support-now-available-in-helidon-mp-dbc7bc0b4af): An implementation of the MicroProfile GraphQL Specification using [Project Helidon](https://helidon.io/) version 2.2.0 and above
+
 ## Execution Strategies
 
 * [graphql-rxjava](https://github.com/nfl/graphql-rxjava): An execution strategy that makes it easier to use rxjava's Observable
