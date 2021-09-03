@@ -40,8 +40,6 @@
 
 * [graphql-java-federation](https://github.com/rkudryashov/graphql-java-federation): A library to adapt graphql-java services to Apollo Federation specification
 
-* [graphql-java-calculator](https://github.com/dugenkui03/graphql-java-calculator): Based on directive, graphql-java-calculator provide graphql query with the ability of orchestration, field calculation and control flow.
-
 ### Code First
 * [graphql-java-annotations](https://github.com/graphql-java/graphql-java-annotations): Annotations-based syntax for GraphQL schema definition.
 
@@ -123,6 +121,7 @@
 ## Tools
 
 * [JS GraphQL IntelliJ Plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin): GraphQL language support for WebStorm, IntelliJ IDEA and other IDEs based on the IntelliJ Platform.
+* [graphql-calculator](https://github.com/graphql-calculator/graphql-calculator) - A lightweight graphql calculation engine, implemented based on directive.
 
 ## License
 
