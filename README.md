@@ -40,6 +40,8 @@
 
 * [graphql-java-federation](https://github.com/rkudryashov/graphql-java-federation): A library to adapt graphql-java services to Apollo Federation specification
 
+* [Kobby](https://github.com/ermadmi78/kobby): Codegen plugin of [Kotlin DSL Client](https://medium.com/@ermadmi78/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284) by GraphQL schema. The generated DSL supports execution of complex GraphQL queries, mutation and subscriptions in Kotlin with syntax similar to native GraphQL syntax.
+
 ### Code First
 * [graphql-java-annotations](https://github.com/graphql-java/graphql-java-annotations): Annotations-based syntax for GraphQL schema definition.
 
