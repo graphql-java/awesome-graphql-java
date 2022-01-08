@@ -72,6 +72,12 @@
 
 * [Helidon GraphQL](https://medium.com/helidon/microprofile-graphql-support-now-available-in-helidon-mp-dbc7bc0b4af): An implementation of the MicroProfile GraphQL Specification using [Project Helidon](https://helidon.io/) version 2.2.0 and above
 
+
+## Apollo Federation
+
+* [federation-jvm](https://github.com/apollographql/federation-jvm):  An implementation of the [Apollo Federation Specification](https://www.apollographql.com/docs/federation/federation-spec/) for graphql-java
+
+
 ## Execution Strategies
 
 * [graphql-rxjava](https://github.com/nfl/graphql-rxjava): An execution strategy that makes it easier to use rxjava's Observable
