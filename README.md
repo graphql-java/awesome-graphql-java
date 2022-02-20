@@ -39,7 +39,7 @@
 * [test-graphql-java](https://github.com/vimalrajselvam/test-graphql-java): A simple library to help testing the GraphQL endpoint with schema files using any HTTP Client library.
 
 
-* [Kobby](https://github.com/ermadmi78/kobby): Codegen plugin of [Kotlin DSL Client](https://medium.com/@ermadmi78/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284) by GraphQL schema. The generated DSL supports execution of complex GraphQL queries, mutation and subscriptions in Kotlin with syntax similar to native GraphQL syntax.
+* [Kobby](https://github.com/ermadmi78/kobby): Codegen plugin of [Kotlin DSL Client](https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284) by GraphQL schema. The generated DSL supports execution of complex GraphQL queries, mutation and subscriptions in Kotlin with syntax similar to native GraphQL syntax.
 
 ### Code First
 * [graphql-java-annotations](https://github.com/graphql-java/graphql-java-annotations): Annotations-based syntax for GraphQL schema definition.
