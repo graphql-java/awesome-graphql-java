@@ -1,8 +1,12 @@
 # Awesome graphql-java [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
->Libraries and projectes related to  [graphql-java](https://github.com/graphql-java/graphql-java)
+>Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java)
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+
+## Official Spring integration
+
+* [Spring for GraphQL](https://spring.io/projects/spring-graphql) is the official Spring integration for GraphQL, built on GraphQL Java. See the [getting started tutorial](https://spring.io/guides/gs/graphql-server/) for how to build a GraphQL service in 15 minutes.
 
 ## Examples
 
