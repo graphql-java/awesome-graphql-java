@@ -40,6 +40,8 @@
 
 * [graphql-braid](https://bitbucket.org/atlassian/graphql-braid): Schema stitching - combines GraphQL backends into one schema.
 
+* [lilo](https://github.com/friatech/lilo): Lilo is a super fast GraphQL stitching library.
+
 * [graphql-orchestrator-java](https://github.com/graph-quilt/graphql-orchestrator-java) GraphQL Orchestrator/Gateway library that supports Schema Stitching and Apollo Federation directives to combine schema from multiple GraphQL microservices into a single unified schema.
 
 * [test-graphql-java](https://github.com/vimalrajselvam/test-graphql-java): A simple library to help testing the GraphQL endpoint with schema files using any HTTP Client library.
