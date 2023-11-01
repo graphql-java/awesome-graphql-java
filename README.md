@@ -58,6 +58,8 @@
 
 * [graphql-jpa](https://github.com/jcrygier/graphql-jpa): JPA Implementation of GraphQL (builds on graphql-java)
 
+* [Elide](https://elide.io): Java library that lets you build model driven GraphQL APIs for CRUD and Analytics. It has first class support for JPA annotations.
+
 * [graphkool](https://github.com/beyondeye/graphkool): GraphQl-java utilities in kotlin
 
 * [schemagen-graphql](https://github.com/bpatters/schemagen-graphql): GraphQL-Java add-on that adds support for Schema Generation & Execution for enterprise level applications.
