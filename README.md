@@ -140,6 +140,7 @@
 * [JS GraphQL IntelliJ Plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin): GraphQL language support for WebStorm, IntelliJ IDEA and other IDEs based on the IntelliJ Platform.
 * [graphql-calculator](https://github.com/graphql-calculator/graphql-calculator) - A lightweight graphql calculation engine, implemented based on directive.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=graphql-java_awesome-graphql-java) - Follow designers and frontend devs on GitHub, see what UI repos and tools they are into.
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
