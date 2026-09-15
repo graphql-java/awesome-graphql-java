@@ -100,6 +100,8 @@
 
 * [graphql-spring-boot](https://github.com/graphql-java/graphql-spring-boot): GraphQL and GraphiQL Spring Framework Boot Starters
 
+* [Netflix DGS Framework](https://github.com/Netflix/dgs-framework): A GraphQL server framework for Spring Boot developed by Netflix.
+
 * [graphql-jpa-spring-boot-starter](https://github.com/timtebeek/graphql-jpa-spring-boot-starter): Spring Boot starter for GraphQL JPA; Expose JPA entities with GraphQL.
 
 * [Light Java GraphQL](https://github.com/networknt/light-java-graphql): A lightweight, fast microservices framework with all other cross-cutting concerns addressed that is ready to plug in GraphQL schema. 
