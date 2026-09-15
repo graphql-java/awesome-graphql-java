@@ -124,6 +124,10 @@
 
 * [graphql-java-extended-validation](https://github.com/graphql-java/graphql-java-extended-validation): A validation library that allows use of @directives to indicate how to validate graphql input arguments.
 
+## Schema Directives
+
+* [DGS Extended Formatters](https://github.com/setchy/dgs-extended-formatters): A set of Netflix DGS schema directives for common response formatting use cases.
+
 ## Batch Loading
 
 * [java-dataloader](https://github.com/graphql-java/java-dataloader): A pure java 8 port of [Facebook DataLoader](https://github.com/facebook/dataloader) 
